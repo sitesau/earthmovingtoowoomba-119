@@ -1,0 +1,22 @@
+{
+  "wheel_id": 756,
+  "structure": "umbrella",
+  "slug": "earthmovingtoowoomba-119",
+  "project": "earthmoving-services-toowoomba-cost-guide-aa1ebf1c125c70748a1e7",
+  "parent_t1_ref": "earthmovingtoowoomba-159",
+  "node_role": "feeder",
+  "money_target": "earthmovingtoowoomba.com.au",
+  "primary_kw": "earthmoving services toowoomba cost guide",
+  "intended_url": "http://earthmoving-services-toowoomba-cost-guide-aa1ebf1c125c70748a1e7.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "5ec59068a1d0dfc7",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/earthmoving-services-toowoomba-seasonal-timing-ea20a0f749b07f3f/",
+      "anchor": "the earthmoving services toowoomba seasonal timing overview",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
